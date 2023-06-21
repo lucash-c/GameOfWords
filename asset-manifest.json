@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GameOfWords/static/css/main.0d053fe2.css",
+    "main.css": "/GameOfWords/static/css/main.ff1f750a.css",
     "main.js": "/GameOfWords/static/js/main.b17e6a2c.js",
     "static/js/787.c74d0e55.chunk.js": "/GameOfWords/static/js/787.c74d0e55.chunk.js",
     "index.html": "/GameOfWords/index.html",
-    "main.0d053fe2.css.map": "/GameOfWords/static/css/main.0d053fe2.css.map",
+    "main.ff1f750a.css.map": "/GameOfWords/static/css/main.ff1f750a.css.map",
     "main.b17e6a2c.js.map": "/GameOfWords/static/js/main.b17e6a2c.js.map",
     "787.c74d0e55.chunk.js.map": "/GameOfWords/static/js/787.c74d0e55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d053fe2.css",
+    "static/css/main.ff1f750a.css",
     "static/js/main.b17e6a2c.js"
   ]
 }
